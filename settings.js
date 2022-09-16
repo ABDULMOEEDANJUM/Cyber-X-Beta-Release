@@ -11,7 +11,7 @@ global.APIs = {
 
 //API KEY\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': '3d04e1d2-619b-47dc-bdb5-de857b3e012b',
 }
 
 
@@ -38,7 +38,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //OWNER CONTACT
 global.vcardowner = ['923374979221'] //ur owner number
 global.ownername = "𝐀𝐁𝐃𝐔𝐋 𝐌𝐎𝐄𝐄𝐃 𝐀𝐍𝐉𝐔𝐌" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
+global.ytname = "YT: 𝐀𝐁𝐃𝐔𝐋 𝐌𝐎𝐄𝐄𝐃 𝐀𝐍𝐉𝐔𝐌" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
